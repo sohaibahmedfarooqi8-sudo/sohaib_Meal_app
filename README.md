@@ -2,8 +2,11 @@
 
 A Flutter-based Meal App that allows users to explore meals by category, view detailed information, and filter based on dietary preferences. Built to practice and demonstrate state management, navigation, and UI building in Flutter.
 
-## 📁 Folder Structure
 ---
+
+## 📁 Folder Structure
+
+```plaintext
 lib/
 ├── data/
 │   └── dummy_data.dart
@@ -25,40 +28,15 @@ lib/
 │   ├── meal_item.dart
 │   ├── meal_item_trait.dart
 │   └── main_drawer.dart
-├── main.dart
-
+└── main.dart
 ---
-## 🖼️ App Screenshots
+<div align="center"> <img src="assets/icon/screen%201.jpg" width="300" alt="Screen 1"/> <img src="assets/icon/screen%202.jpg" width="300" alt="Screen 2"/>
+<br><br>
 
-<div align="center">
+<img src="assets/icon/screen%203.jpg" width="300" alt="Screen 3"/> <img src="assets/icon/screen%204.jpg" width="300" alt="Screen 4"/>
+<br><br>
 
-<img src="assets/icon/screen%201.jpg" width="300" />
-<img src="assets/icon/screen%202.jpg" width="300" />
+<img src="assets/icon/screen%205.jpg" width="300" alt="Screen 5"/> <img src="assets/icon/screen%206.jpg" width="300" alt="Screen 6"/> </div>
 
-<br/>
-
-<img src="assets/icon/screen%203.jpg" width="300" />
-<img src="assets/icon/screen%204.jpg" width="300" />
-
-<br/>
-
-<img src="assets/icon/screen%205.jpg" width="300" />
-<img src="assets/icon/screen%206.jpg" width="300" />
-
-</div>
-
----
-
-## 🚀 Features
-
-- Browse meals by category
-- View meal details with ingredients and steps
-- Mark meals as favorites
-- Filter meals by dietary preferences (gluten-free, lactose-free, vegan, vegetarian)
-- Smooth navigation between screens
-- State management using `Provider`
-- Responsive and clean UI
-
----
-
+----
 
