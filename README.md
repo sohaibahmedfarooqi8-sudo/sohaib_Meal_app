@@ -52,4 +52,17 @@ lib/
 ![Settings](assets/icon/screen_6.jpg)
 
 ---
+## 🚀 Features
 
+- 🧾 Browse meals by category
+- 📄 View detailed recipe, ingredients, and steps
+- ❤️ Add/remove favorite meals
+- ✅ Apply filters for:
+  - Gluten-free
+  - Lactose-free
+  - Vegan
+  - Vegetarian
+- 🔄 Persistent filters using state management
+- 📱 Clean and user-friendly UI
+
+---
