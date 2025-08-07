@@ -33,8 +33,6 @@ lib/
 
 ## 📸 App Screenshots
 
-## 📸 App Screenshots
-
 ### 🏠 Home Screen
 ![Home Screen](assets/icon/screen_1.jpg)
 
