@@ -30,13 +30,20 @@ lib/
 │   └── main_drawer.dart
 └── main.dart
 ---
-<div align="center"> <img src="assets/icon/screen%201.jpg" width="300" alt="Screen 1"/> <img src="assets/icon/screen%202.jpg" width="300" alt="Screen 2"/>
-<br><br>
 
-<img src="assets/icon/screen%203.jpg" width="300" alt="Screen 3"/> <img src="assets/icon/screen%204.jpg" width="300" alt="Screen 4"/>
-<br><br>
+## 🖼️ App Screenshots
 
-<img src="assets/icon/screen%205.jpg" width="300" alt="Screen 5"/> <img src="assets/icon/screen%206.jpg" width="300" alt="Screen 6"/> </div>
+<p align="center">
+  <img src="assets/icon/screen_1.jpg" width="300" />
+  <img src="assets/icon/screen_2.jpg" width="300" />
+  <br/>
+  <img src="assets/icon/screen_3.jpg" width="300" />
+  <img src="assets/icon/screen_4.jpg" width="300" />
+  <br/>
+  <img src="assets/icon/screen_5.jpg" width="300" />
+  <img src="assets/icon/screen_6.jpg" width="300" />
+</p>
+
 
 ----
 
