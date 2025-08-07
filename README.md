@@ -6,24 +6,33 @@ A Flutter-based Meal App that allows users to explore meals by category, view de
 
 ## 📸 App Screenshots
 
-### 🏠 Home Screen
-![Home Screen](assets/icon/screen_1.jpg)
+<table>
+  <tr>
+    <td align="center"><b>🏠 Home Screen</b></td>
+    <td align="center"><b>➕ Add Expense</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/icon/screen_1.jpg" width="300"/></td>
+    <td><img src="assets/icon/screen_2.jpg" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Chart View</b></td>
+    <td align="center"><b>🗑️ Edit/Delete</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/icon/screen_3.jpg" width="300"/></td>
+    <td><img src="assets/icon/screen_4.jpg" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔍 Filter Screen</b></td>
+    <td align="center"><b>⚙️ Settings</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/icon/screen_5.jpg" width="300"/></td>
+    <td><img src="assets/icon/screen_6.jpg" width="300"/></td>
+  </tr>
+</table>
 
-### ➕ Add Expense
-![Add Expense](assets/icon/screen_2.jpg)
-
-### 📊 Chart View
-![Chart View](assets/icon/screen_3.jpg)
-
-### 🗑️ Edit/Delete
-![Edit/Delete](assets/icon/screen_4.jpg)
-
-### 🔍 Filter Screen
-![Filter Screen](assets/icon/screen_5.jpg)
-
-### ⚙️ Settings
-![Settings](assets/icon/screen_6.jpg)
----
 ## 📁 Folder Structure
 
 ```plaintext
