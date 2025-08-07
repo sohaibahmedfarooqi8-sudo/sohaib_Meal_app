@@ -4,7 +4,6 @@ A Flutter-based Meal App that allows users to explore meals by category, view de
 
 ## 📁 Folder Structure
 ---
-```txt
 lib/
 ├── data/
 │   └── dummy_data.dart
@@ -29,23 +28,22 @@ lib/
 ├── main.dart
 
 ---
-
 ## 🖼️ App Screenshots
 
 <div align="center">
 
-<img src="assets/icon/screen 1.jpg" width="300" />
-<img src="assets/icon/screen 2.jpg" width="300" />
+<img src="assets/icon/screen%201.jpg" width="300" />
+<img src="assets/icon/screen%202.jpg" width="300" />
 
 <br/>
 
-<img src="assets/icon/screen 3.jpg" width="300" />
-<img src="assets/icon/screen 4.jpg" width="300" />
+<img src="assets/icon/screen%203.jpg" width="300" />
+<img src="assets/icon/screen%204.jpg" width="300" />
 
 <br/>
 
-<img src="assets/icon/screen 5.jpg" width="300" />
-<img src="assets/icon/screen 6.jpg" width="300" />
+<img src="assets/icon/screen%205.jpg" width="300" />
+<img src="assets/icon/screen%206.jpg" width="300" />
 
 </div>
 
