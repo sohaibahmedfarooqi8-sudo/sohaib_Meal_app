@@ -66,3 +66,7 @@ lib/
 - 📱 Clean and user-friendly UI
 
 ---
+
+## 🧑‍💻 Developer
+
+Made with ❤️ by Sohaib Ahmed Farooqi as a Flutter learning project.
