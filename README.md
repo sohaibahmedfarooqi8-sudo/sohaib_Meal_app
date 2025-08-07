@@ -4,6 +4,26 @@ A Flutter-based Meal App that allows users to explore meals by category, view de
 
 ---
 
+## 📸 App Screenshots
+
+### 🏠 Home Screen
+![Home Screen](assets/icon/screen_1.jpg)
+
+### ➕ Add Expense
+![Add Expense](assets/icon/screen_2.jpg)
+
+### 📊 Chart View
+![Chart View](assets/icon/screen_3.jpg)
+
+### 🗑️ Edit/Delete
+![Edit/Delete](assets/icon/screen_4.jpg)
+
+### 🔍 Filter Screen
+![Filter Screen](assets/icon/screen_5.jpg)
+
+### ⚙️ Settings
+![Settings](assets/icon/screen_6.jpg)
+---
 ## 📁 Folder Structure
 
 ```plaintext
@@ -29,27 +49,7 @@ lib/
 │   ├── meal_item_trait.dart
 │   └── main_drawer.dart
 └── main.dart
----
 
-## 📸 App Screenshots
-
-### 🏠 Home Screen
-![Home Screen](assets/icon/screen_1.jpg)
-
-### ➕ Add Expense
-![Add Expense](assets/icon/screen_2.jpg)
-
-### 📊 Chart View
-![Chart View](assets/icon/screen_3.jpg)
-
-### 🗑️ Edit/Delete
-![Edit/Delete](assets/icon/screen_4.jpg)
-
-### 🔍 Filter Screen
-![Filter Screen](assets/icon/screen_5.jpg)
-
-### ⚙️ Settings
-![Settings](assets/icon/screen_6.jpg)
 
 ---
 ## 🚀 Features
